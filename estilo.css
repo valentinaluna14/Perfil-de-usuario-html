@@ -8,3 +8,10 @@ header{
 main{
     background-color: rgb(250, 208, 248);
 }
+.Formulario{
+    background-color: aliceblue;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border: 200px, 200px, 200px, 200px;
+}
